@@ -13,7 +13,7 @@ Una sencilla aplicación de escritorio para generar contraseñas seguras, creada
 
 *(Aquí puedes añadir una captura de pantalla de la aplicación)*
 
-![Generador de Contraseñas](src/icon.png)
+
 
 ## Cómo Empezar
 
