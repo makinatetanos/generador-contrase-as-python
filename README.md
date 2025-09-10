@@ -28,8 +28,8 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina local.
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone <URL-DEL-REPOSITORIO>
-    cd <NOMBRE-DEL-DIRECTORIO>
+    git clone https://github.com/makinatetanos/generador-contrase-as-python.git
+    cd generador-contrase-as-python
     ```
 
 2.  **Crea y activa un entorno virtual:**
