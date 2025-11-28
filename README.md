@@ -11,7 +11,7 @@ Una sencilla aplicación de escritorio para generar contraseñas seguras, creada
 
 ## Captura de Pantalla
 
-![Captura Generador de Contraseñas](captura generador de contraseñas.png)
+![Captura Generador de Contraseñas](captura-generador-de-contraseñas.png)
 
 
 
